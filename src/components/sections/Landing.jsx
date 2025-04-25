@@ -18,7 +18,7 @@ export const Landing = () => {
         <section id="home" className="flex justify-center px-6 sm:px-10 md:px-16 lg:px-20 pt-10 pb-40 relative">
 
             <div className="absolute top-7 right-7">
-                <img src={logo} alt="Logo" className="w-8 h-auto" />
+                <img src={logo} alt="Logo" className="w-4 lg:w-8 md:w-6 sm:w-4 h-auto" />
             </div>
 
             <div className="flex flex-col md:flex-row items-center md:items-start justify-between w-full max-w-6xl mt-10 gap-y-10">

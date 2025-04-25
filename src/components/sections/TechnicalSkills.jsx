@@ -15,7 +15,7 @@ const skills = [
 
 export const TechnicalSkills = () => {
     return (
-        <section className="w-full py-16 px-6 lg:px-20 ml-13">
+        <section className="w-full py-5 px-6 lg:px-20 ml-13">
             <div className="max-w-6xl mx-auto flex flex-col items-start">
                 <h2 className="text-3xl md:text-4xl font-semibold font-sans mb-10 text-[#1a2c70]">Technical Skills 🛠️</h2>
                 <div data-aos="fade-left" className=" grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 text-left">
